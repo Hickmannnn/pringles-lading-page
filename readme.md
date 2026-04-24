@@ -26,5 +26,5 @@ It is not fully responsive for mobile devices.
 ## Preview
 ![Project preview](imagens/screenshot.png)
 
-## 🌐 Live Preview
+## Live Preview
 **[Click here to view the project](https://hickmannnn.github.io/pringles-lading-page/)**
